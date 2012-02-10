@@ -1,0 +1,223 @@
+/* 
+   Localizable.strings
+   MILS
+ */
+
+//Menu Title
+"NearbyTitle" = "Nearby Games";
+"NoteTitleKey" = "Note";
+"SearchTitleKey" = "Search";
+"RecentGamesTitleKey" = "Recent Games";
+"CommentTitleKey" = "Comment";
+"AttributeTitleKey" = "Attributes";
+"NoGroupKey" = "No Group";
+"TapToFindOneKey" = "Tap to Find One";
+"GroupTitleKey" = "Group";
+"StatsTitleKey" = "Stat";
+"DoneTitleKey" = "Done";
+"PreviewTitleKey" = "Preview";
+"CommentsTitleKey" = "Comments";
+"SaveCommentTitleKey" = "Save Comment";
+"PlaceNoteOnMapTitleKey" = "Place Note On Map";
+"WeightCapacityKey" = "Weight Capacity";
+"AddTextTitleKey" = "Add Text";
+
+//Content
+"NoGamesFoundKey" = "No Games Found";
+"CreateNewGameKey" = "You should make one from Web client";
+"EnterCommentKey" = "Please add a comment";
+"Error" = "Error happened";
+"OK" = "OK";
+"GiveRatingKey" = "Please give this game a rating of one through five stars";
+"SuccessKey" = "Success!";
+"SuccessfullyPostedKey" = "Comment Successfully Posted";
+"TakeProfilePictureKey" = "Take Profile Picture";
+"TapToContinueKey" = "Tap To Continue";
+"PlayNowKey" = "Play Now";
+"GameDescryptionKey" = "Descryption";
+"AuthorsLabelKey" = "Author(s): ";
+"DescryptionLabelKey" = "Descryption: ";
+"LoggingInKey" = "Logging In...";
+"NoNotesTitleKey" = "No Notes";
+"AddOneNoteTitleKey" = "Press Plus Button Above To Add One!";
+"NoContentAddedTitleKey" = "No Content Added";
+"AddSomeContentsTitleKey" = "Press Buttons Below To Add Some!";
+"DragtoMoveNoteTitleKey" = "Drag to Move Note";
+"WriteNoteHereKey" = "Write note here...";
+"SomethingNearbyTitleKey" = "Something Nearby";
+"NearbyMessageTitleKey" = "There is something nearby! Touch below to see what it is.";
+"InventoryOverLimitKey" = "Inventory over Limit";
+"CannotCarryAnyMoreKey" = "You cannot carry any more of this item.";
+"CannotPickedUpKey" = "This item cannot be picked up.";
+"CannotCarryThatMuchKey" = "You can't carry that much. Most picked up number:";
+"TooHeavyKey" = "Too Heavy! Only picked up number:";
+"NewGPSLocationTitleKey" = "New GPS Location";
+"GPSLocationMessageTitleKey" = "You have a new place of interest on your GPS! Touch below to view the Map.";
+"NewQuestAvailableTitleKey" = "New Quest Available";
+"QuestCompletedTitleKey" = "Quest Completed";
+"NewQuestTitleKey" = "New Quest";
+"NewQuestMessageTitleKey" = "You have a new Quest! Touch here to see the current and completed quests.";
+"ItemReceivedTitleKey" = "Item Received";
+"AddedToInventoryTitleKey" = "Added to Inventory";
+"NewItemTitleKey" = "New Item";
+"NewItemMessageTitleKey" = "You have a new Item in your Inventory! Touch below to view your items now.";
+"QuestsCountCompleteTitleKey" = "Quests Complete";
+"OfQuestTitleKey" = "of";
+"ReviewsTitleKey" = "Reviews";
+"WriteCommentTitleKey" = "Write Comment...";
+"QuantityTitleKey" = "Quantity";
+"WeightTitleKey" = "Weight";
+"CanOnlyCarryTitleKey" = "You can only carry";
+"OfThisItemTitleKey" = "of this item";
+
+//General
+"EditTitleKey" = "Edit";
+"NoConnectionTitleKey" = "No connection to the Internet";
+"NoConnectionMessageKey" = "Please connect to the internet and restart MILS";
+"NoLocationTitleKey" = "Location Service Error";
+"NoLocationMessageKey" = "Please enable location services for MILS in iOS Settings-> General-> Location Services";
+"PoorConnectionTitleKey" = "Network Warning";
+"PoorConnectionMessageKey" = "MILS cannot communicate with the server.";
+"BadServerResponseTitleKey" = "Bad Response From Server";
+"BadServerResponseMessageKey" = "There was an error with the server or the server URL is not correct";
+"LoginErrorTitleKey" = "Login Error";
+"LoginErrorMessageKey" = "Unknown Username/Password";
+"PreparingToPlayKey" = "Preparing to Play";
+"TouchToPlayKey" = "Touch to Play";
+"BackButtonKey" = "Back";
+"LoadingKey" = "Loading...";
+"OkKey" = "Ok";
+"SaveKey" = "Save";
+"NearbyObjectsTabKey" = "Nearby";
+"NearbyObjectsTitleKey" = "Nearby Objects";
+"SelectAnotherGameKey" = "Another Game";
+"HideKeyboardTitleKey" = "Hide Keyboard";
+"UploadingKey" = "Uploading";
+"CreatingNewUserKey" = "Creating a New User";
+"RegistrationErrorMessageKey" = "Either this name has been taken or you didn't fill out all the required information.";
+"NewUserCreatedMessageKey" = "Your new User was Created. Please login.";
+"ErrorTitleKey" = "Error";
+"SuccessTitleKey" = "Success";
+"RemovedFromInventoryTitleKey" = "removed from inventory";
+"ItemLostTitleKey" = "Item Lost";
+"CloseTitleKey" = "Close";
+"EmailSentTitleKey" = "Email Sent";
+"EmailSentMessageKey" = "An email has been sent to you containing your password";
+"SharingTitleKey" = "Sharing";
+"CancelTitleKey" = "Cancel";
+"ListOnlyTitleKey" = "List Only";
+"MapOnlyTitleKey" = "Map Only";
+"ListAndMapTitleKey" = "List & Map";
+"BothTitleKey" = "Both";
+"DontShareTitleKey" = "Don't Share";
+"NoneTitleKey" = "None";
+"QuickTravelTitleKey" = "Quick Travel";
+
+//AR View
+"ARViewTitleKey" = "AR View";
+
+//Dialog View
+"DialogContinue" = "Tap to Continue";
+"DialogReview" = "Tap to Review";
+"DialogEnd" = "Leave Conversation";
+"DialogPlayerName" = "You";
+
+//Item Details View
+"ItemDropKey" = "Drop";
+"ItemDeleteKey" = "Destroy";
+"ItemPickupKey" = "Pickup";
+"ItemDetailKey" = "Detail";
+"ItemDroppedTitleKey" = "Item Dropped";
+"ItemDroppedMessageKey" = "Your Item was dropped here on the map for other players to see";
+"ItemDestroyedTitleKey" = "Item Destroyed";
+"ItemDestroyedMessageKey" = "This Item was removed from your inventory and permanently destroyed";
+"ItemDuplicateTitleKey" = "Duplicate Item";
+"ItemDuplicateMessageKey" = "You cannot carry any more of this item";
+"ItemPickedUpTitleKey" = "Picked up an Item";
+"ItemPickedUpMessageKey" = "It is available in your inventory";
+"ItemCannotPickedUpTitleKey" = "This item can not be picked up.";
+"CantCarryThatMuchKey" = "You can't carry that much. Only picked up:";
+
+//Quests View
+"QuestViewTitleKey" = "Quests";
+"QuestsActiveTitleKey" = "Active Quests";
+"QuestsCompleteTitleKey" = "Completed Quests";
+
+//Map View
+"MapViewTitleKey" = "Map";
+"MapTypeKey" = "Map Type";
+
+//Inventory View
+"InventoryViewTitleKey" = "Inventory";
+"InventoryOverLimitTitleKey" = "Inventory over Limit";
+
+//Title and Description Form
+"TitleAndDescriptionTitleKey" = "Title";
+"TitleAndDescriptionTitlePrompt" = "Enter a Title";
+"TitleAndDescriptionDescriptionPrompt" = "Enter a Description";
+
+//Camera
+"CameraTitleKey" = "Camera";
+"CameraLibraryButtonTitleKey" = "Use Library";
+"CameraCameraButtonTitleKey" = "Use Camera";
+
+//Audio Recorder
+"AudioRecorderTitleKey" = "Recorder";
+"BeginRecordingKey" = "Begin Recording";
+"StopRecordingKey" = "Stop Recording";
+"PlayKey" = "Play";
+"StopKey" = "Stop";
+"UploadKey" = "Upload";
+"DiscardKey" = "Discard";
+"NoAudioHardwareAvailableTitleKey" = "Warning";
+"NoAudioHardwareAvailableMessageKey" = "Audio input hardware not available";
+
+//QR Scanner
+"QRScannerTitleKey" = "Decoder";
+"QRScannerErrorTitleKey" = "Scan Successful, But...";
+"QRScannerErrorMessageKey" = "This code doesn't mean anything right now. You should come back later";
+"QRScannerDecodingErrorTitleKey" = "Decoding Error";
+"QRScannerDecodingKey" = "Decoding...";
+"QRScannerDecodingErrorMessageKey" = "Try scanning the code again: Step back 2 feet and hold the camera as still as possible";
+"ScanUsingCameraKey" = "Scan Using Camera";
+"EnterCodeKey" = "Manually Type Code";
+
+//Game Picker
+"GamePickerTitleKey" = "Select Game";
+"KilometersKey" = "Kilometers";
+"PercentCompleteKey" = "% Complete";
+"GamePickerNoNearbyGamesKey" = "No Nearby Games Found";
+"GamePickerNearbyGamesKey" = "Nearby Games";
+"GamePickerOtherGamesKey" = "Other Games";
+"GameDetailsTitleKey" = "Details";
+"PlayersKey" = "Players";
+"AuthorsKey" = "Authors";
+"DescriptionKey" = "Description";
+"MapKey" = "Map";
+
+//Start Over
+"StartOverTitleKey" = "Start Over";
+"StartOverKey" = "Start Over";
+"StartOverWarningKey" = "This cannot be reversed";
+"StartOverResetAlertTitleKey" = "Success";
+"StartOverResetAlertMessageKey" = "You have reset your progress for this game";
+
+//Logout
+"LogoutTitleKey" = "Logout";
+"LogoutKey" = "Logout";
+"LogoutWarningKey" = "Are you sure you wish to Logout?";
+
+//Login and
+"LoginTitleKey" = "Login to MILS";
+"WelcomeLoginMessageKey" = "Welcome to use the MILS mobile learning system";
+"UsernameKey" = "Username";
+"PasswordKey" = "Password";
+"LoginKey" = "Login";
+"NewAccountMessageKey" = "Don't Have an Account?";
+"CreateAccountKey" = "Signup";
+"SelfRegistrationTitleKey" = "Create a New User";
+"SelfRegistrationMessageKey" = "Please enter ALL of the following";
+"EmailKey" = "Email";
+"FirstNameKey" = "First Name";
+"LastNameKey" = "Last Name";
+"CreateAccountKey" = "Create Account";

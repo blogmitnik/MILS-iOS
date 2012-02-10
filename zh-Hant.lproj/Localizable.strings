@@ -1,0 +1,223 @@
+/* 
+ Localizable.strings
+ MILS
+ */
+
+//Menu Title
+"NearbyTitle" = "附近的遊戲";
+"NoteTitleKey" = "筆記";
+"SearchTitleKey" = "搜尋遊戲";
+"RecentGamesTitleKey" = "最近參與的遊戲";
+"CommentTitleKey" = "留言";
+"AttributeTitleKey" = "個人檔案";
+"NoGroupKey" = "沒有群組";
+"TapToFindOneKey" = "按一下來尋找群組";
+"GroupTitleKey" = "群組";
+"StatsTitleKey" = "地點";
+"DoneTitleKey" = "好";
+"PreviewTitleKey" = "查看";
+"CommentsTitleKey" = "留言";
+"SaveCommentTitleKey" = "儲存留言";
+"PlaceNoteOnMapTitleKey" = "放置筆記在地圖上";
+"WeightCapacityKey" = "身上可攜帶的物品重量";
+"AddTextTitleKey" = "寫東西";
+
+//Content
+"NoGamesFoundKey" = "找不到任何遊戲";
+"CreateNewGameKey" = "你可以登入Web介面建立新的遊戲";
+"EnterCommentKey" = "請輸入你的回應內容";
+"Error" = "發生錯誤";
+"OK" = "好了";
+"GiveRatingKey" = "請給這個遊戲1至5顆星的評等";
+"SuccessKey" = "成功！";
+"SuccessfullyPostedKey" = "你的回應已經完成張貼";
+"TakeProfilePictureKey" = "拍攝個人檔案照片";
+"TapToContinueKey" = "按一下並繼續";
+"PlayNowKey" = "進行遊戲";
+"GameDescryptionKey" = "關於本遊戲";
+"AuthorsLabelKey" = "建立者: ";
+"DescryptionLabelKey" = "內容描述: ";
+"LoggingInKey" = "正在登入...";
+"NoNotesTitleKey" = "沒有任何筆記";
+"AddOneNoteTitleKey" = "按下＋按鈕來新增筆記";
+"NoContentAddedTitleKey" = "筆記裡沒有任何內容";
+"AddSomeContentsTitleKey" = "請按下方的按鈕來寫一些內容！";
+"DragtoMoveNoteTitleKey" = "拖曳來放置筆記";
+"WriteNoteHereKey" = "在這裡寫一些內容吧...";
+"SomethingNearbyTitleKey" = "附近發現了東西";
+"NearbyMessageTitleKey" = "在你附近發現了東西，按下面來查看是什麼";
+"InventoryOverLimitKey" = "物品數量已經超過限制";
+"CannotCarryAnyMoreKey" = "你無法攜帶更多這類型的物件";
+"CannotPickedUpKey" = "你無法撿拾這個物品";
+"CannotCarryThatMuchKey" = "你已經無法攜帶更多物品。最多的攜帶數量:";
+"TooHeavyKey" = "東西太多了！只能撿拾的數量:";
+"NewGPSLocationTitleKey" = "新GPS座標通知";
+"GPSLocationMessageTitleKey" = "在GPS上發現了新的座標位置！點擊地圖來查看";
+"NewQuestAvailableTitleKey" = "發現到新的探索任務哦";
+"QuestCompletedTitleKey" = "探索任務已完成";
+"NewQuestTitleKey" = "新的探索任務";
+"NewQuestMessageTitleKey" = "你有新的探索任務！觸碰並查看可進行的任務和已完成的任務";
+"ItemReceivedTitleKey" = "已獲得項目";
+"AddedToInventoryTitleKey" = "已增加到倉庫中";
+"NewItemTitleKey" = "新的項目";
+"NewItemMessageTitleKey" = "你的倉庫裡有新的項目，點擊下方的選單來查看內容";
+"QuestsCountCompleteTitleKey" = "個任務已經完成";
+"OfQuestTitleKey" = "個任務中的";
+"ReviewsTitleKey" = "則玩家評論";
+"WriteCommentTitleKey" = "張貼留言...";
+"QuantityTitleKey" = "物品數量";
+"WeightTitleKey" = "單一物品重量";
+"CanOnlyCarryTitleKey" = "你只能再取得";
+"OfThisItemTitleKey" = "個這種物件";
+
+//General
+"EditTitleKey" = "編輯";
+"NoConnectionTitleKey" = "無法連結到網際網路";
+"NoConnectionMessageKey" = "請將設備連結到網路之後再重新執行MILS";
+"NoLocationTitleKey" = "位置服務發生錯誤";
+"NoLocationMessageKey" = "你必須允許MILS使用此設備的位置服務。";
+"PoorConnectionTitleKey" = "網路連線發生錯誤";
+"PoorConnectionMessageKey" = "MILS無法和遠端伺服器取得連線";
+"BadServerResponseTitleKey" = "遠端伺服器無法回應";
+"BadServerResponseMessageKey" = "請檢查遠端Web伺服器的設定是否正確";
+"LoginErrorTitleKey" = "登入時發生錯誤";
+"LoginErrorMessageKey" = "使用者名稱或密碼錯誤!";
+"PreparingToPlayKey" = "準備進入遊戲內容";
+"TouchToPlayKey" = "觸碰並開始遊戲";
+"BackButtonKey" = "返回";
+"LoadingKey" = "正在載入...";
+"OkKey" = "完成";
+"SaveKey" = "儲存";
+"NearbyObjectsTabKey" = "周邊物品";
+"NearbyObjectsTitleKey" = "周邊的物件";
+"SelectAnotherGameKey" = "其他遊戲";
+"HideKeyboardTitleKey" = "隱藏鍵盤";
+"UploadingKey" = "正在上傳";
+"CreatingNewUserKey" = "正在建立帳號";
+"RegistrationErrorMessageKey" = "這個使用者名稱已經被使用，或者您沒有正確填寫完整的表單內容";
+"NewUserCreatedMessageKey" = "你的使用者帳號已經建立，現在可以登入系統了";
+"ErrorTitleKey" = "發生錯誤";
+"SuccessTitleKey" = "成功";
+"RemovedFromInventoryTitleKey" = "已經從倉庫中移除";
+"ItemLostTitleKey" = "移除項目";
+"CloseTitleKey" = "關閉";
+"EmailSentTitleKey" = "Email已送出";
+"EmailSentMessageKey" = "一個包含使用者密碼的Email已經送到你的信箱";
+"SharingTitleKey" = "分享";
+"CancelTitleKey" = "取消";
+"ListOnlyTitleKey" = "只有清單";
+"MapOnlyTitleKey" = "只有地圖";
+"ListAndMapTitleKey" = "清單和地圖";
+"BothTitleKey" = "兩者都分享";
+"DontShareTitleKey" = "不要分享";
+"NoneTitleKey" = "沒有";
+"QuickTravelTitleKey" = "立刻查看內容";
+
+//AR View
+"ARViewTitleKey" = "AR視窗";
+
+//Dialog View
+"DialogContinue" = "了解並繼續";
+"DialogReview" = "觸碰來瀏覽";
+"DialogEnd" = "離開對話";
+"DialogPlayerName" = "遊戲玩家(你)";
+
+//Item Details View
+"ItemDropKey" = "丟掉";
+"ItemDeleteKey" = "刪除";
+"ItemPickupKey" = "撿起";
+"ItemDetailKey" = "詳細內容";
+"ItemDroppedTitleKey" = "項目已被丟掉";
+"ItemDroppedMessageKey" = "你的項目已經被丟在這裡，而其他玩家可以看到";
+"ItemDestroyedTitleKey" = "項目已被刪除";
+"ItemDestroyedMessageKey" = "這個項目已經從你的倉庫裡被永久刪除";
+"ItemDuplicateTitleKey" = "重複的項目";
+"ItemDuplicateMessageKey" = "你無法攜帶更多這種項目";
+"ItemPickedUpTitleKey" = "撿到一個項目";
+"ItemPickedUpMessageKey" = "它可以被放進你的倉庫中";
+"ItemCannotPickedUpTitleKey" = "你無法撿起這個項目";
+"CantCarryThatMuchKey" = "你無法攜帶更多這種項目，只能攜帶的數目:";
+
+//Quests View
+"QuestViewTitleKey" = "學習任務探索";
+"QuestsActiveTitleKey" = "進行中的探索任務";
+"QuestsCompleteTitleKey" = "已完成的探索任務";
+
+//Map View
+"MapViewTitleKey" = "遊戲地圖";
+"MapTypeKey" = "地圖模式";
+
+//Inventory View
+"InventoryViewTitleKey" = "檢視倉庫";
+"InventoryOverLimitTitleKey" = "倉庫存放的物品數量已經達到限制";
+
+//Title and Description Form
+"TitleAndDescriptionTitleKey" = "標題";
+"TitleAndDescriptionTitlePrompt" = "請輸入標題";
+"TitleAndDescriptionDescriptionPrompt" = "請輸入描述";
+
+//Camera
+"CameraTitleKey" = "相機";
+"CameraLibraryButtonTitleKey" = "從手機選取";
+"CameraCameraButtonTitleKey" = "用相機拍照";
+
+//Audio Recorder
+"AudioRecorderTitleKey" = "錄音";
+"BeginRecordingKey" = "開始錄音";
+"StopRecordingKey" = "停止錄音";
+"PlayKey" = "播放";
+"StopKey" = "停止";
+"UploadKey" = "上傳";
+"DiscardKey" = "刪除";
+"NoAudioHardwareAvailableTitleKey" = "注意！";
+"NoAudioHardwareAvailableMessageKey" = "無法使用音效輸入硬體設備";
+
+//QR Scanner
+"QRScannerTitleKey" = "條碼掃描";
+"QRScannerErrorTitleKey" = "條碼掃描完成, 可是...";
+"QRScannerErrorMessageKey" = "這個條碼並沒有任何意義，請確認後再嘗試一次";
+"QRScannerDecodingErrorTitleKey" = "條碼掃描錯誤";
+"QRScannerDecodingKey" = "正在掃描條碼...";
+"QRScannerDecodingErrorMessageKey" = "正在嘗試掃描條碼，請拿好手機並將相機鏡頭對準條碼";
+"ScanUsingCameraKey" = "使用相機進行掃描";
+"EnterCodeKey" = "手動輸入條碼";
+
+//Game Picker
+"GamePickerTitleKey" = "選擇遊戲";
+"KilometersKey" = "公里";
+"PercentCompleteKey" = "% 完成";
+"GamePickerNoNearbyGamesKey" = "周邊沒有發現遊戲";
+"GamePickerNearbyGamesKey" = "周邊的遊戲";
+"GamePickerOtherGamesKey" = "其他遊戲";
+"GameDetailsTitleKey" = "詳細內容";
+"PlayersKey" = "玩家";
+"AuthorsKey" = "建立者";
+"DescriptionKey" = "描述";
+"MapKey" = "遊戲地圖";
+
+//Start Over
+"StartOverTitleKey" = "重新設定";
+"StartOverKey" = "重新設定";
+"StartOverWarningKey" = "你確定要進行這項操作嗎？所有遊戲記錄將會被清除，並且這項操作將無法還原！";
+"StartOverResetAlertTitleKey" = "完成";
+"StartOverResetAlertMessageKey" = "你已經重新設定針對此遊戲的過程";
+
+//Logout
+"LogoutTitleKey" = "登出";
+"LogoutKey" = "登出";
+"LogoutWarningKey" = "您確定要登出系統嗎？";
+
+//Login and
+"LoginTitleKey" = "登入MILS";
+"WelcomeLoginMessageKey" = "歡迎使用MILS行動學習系統";
+"UsernameKey" = "用戶名稱";
+"PasswordKey" = "密碼";
+"LoginKey" = "登入";
+"NewAccountMessageKey" = "您還沒有帳號嗎？趕快註冊吧！";
+"CreateAccountKey" = "註冊帳號";
+"SelfRegistrationTitleKey" = "使用者註冊";
+"SelfRegistrationMessageKey" = "請填寫以下所有欄位的內容";
+"EmailKey" = "Email地址";
+"FirstNameKey" = "姓氏";
+"LastNameKey" = "名字";
+"CreateAccountKey" = "申請帳號";
