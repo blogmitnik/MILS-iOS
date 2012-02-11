@@ -190,9 +190,9 @@
 
 	cell.titleLabel.text = currentGame.name;
 	double dist = currentGame.distanceFromPlayer;
-	cell.distanceLabel.text = [NSString stringWithFormat:@"%1.1f %@",  dist/1000, NSLocalizedString(@"km", @"") ];
+	cell.distanceLabel.text = [NSString stringWithFormat:@"%1.1f %@",  dist/1000, NSLocalizedString(@"KilometersKey", @"") ];
 	cell.authorLabel.text = currentGame.authors;
-	cell.numReviewsLabel.text = [NSString stringWithFormat:@"%@%@", [[NSNumber numberWithInt:currentGame.numReviews] stringValue], @" reviews"];
+	cell.numReviewsLabel.text = [NSString stringWithFormat:@"%@ %@", [[NSNumber numberWithInt:currentGame.numReviews] stringValue], NSLocalizedString(@"ReviewsTitleKey", @"")];
     cell.starView.rating = currentGame.rating;
     cell.starView.backgroundColor = [UIColor clearColor];
 	

@@ -21,6 +21,7 @@
 "PlaceNoteOnMapTitleKey" = "放置筆記在地圖上";
 "WeightCapacityKey" = "身上可攜帶的物品重量";
 "AddTextTitleKey" = "寫東西";
+"DecodingImageTitleKey" = "圖像正在解碼中";
 
 //Content
 "NoGamesFoundKey" = "找不到任何遊戲";
@@ -63,7 +64,7 @@
 "NewItemMessageTitleKey" = "你的倉庫裡有新的項目，點擊下方的選單來查看內容";
 "QuestsCountCompleteTitleKey" = "個任務已經完成";
 "OfQuestTitleKey" = "個任務中的";
-"ReviewsTitleKey" = "則玩家評論";
+"ReviewsTitleKey" = "則評論";
 "WriteCommentTitleKey" = "張貼留言...";
 "QuantityTitleKey" = "物品數量";
 "WeightTitleKey" = "單一物品重量";
@@ -209,11 +210,11 @@
 
 //Login and
 "LoginTitleKey" = "登入MILS";
-"WelcomeLoginMessageKey" = "歡迎使用MILS行動學習系統";
+"WelcomeLoginMessageKey" = "歡迎使用MILS遊戲化行動學習平台";
 "UsernameKey" = "用戶名稱";
 "PasswordKey" = "密碼";
 "LoginKey" = "登入";
-"NewAccountMessageKey" = "您還沒有帳號嗎？趕快註冊吧！";
+"NewAccountMessageKey" = "還沒有帳號嗎？趕快註冊吧！";
 "CreateAccountKey" = "註冊帳號";
 "SelfRegistrationTitleKey" = "使用者註冊";
 "SelfRegistrationMessageKey" = "請填寫以下所有欄位的內容";

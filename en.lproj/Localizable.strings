@@ -21,6 +21,7 @@
 "PlaceNoteOnMapTitleKey" = "Place Note On Map";
 "WeightCapacityKey" = "Weight Capacity";
 "AddTextTitleKey" = "Add Text";
+"DecodingImageTitleKey" = "Decoding Image";
 
 //Content
 "NoGamesFoundKey" = "No Games Found";

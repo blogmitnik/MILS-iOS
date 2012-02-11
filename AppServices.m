@@ -726,7 +726,7 @@ SYNTHESIZE_SINGLETON_FOR_CLASS(AppServices);
 	MILSAppDelegate* appDelegate = (MILSAppDelegate *)[[UIApplication sharedApplication] delegate];
 	[appDelegate removeNewWaitingIndicator];
     
-    [appDelegate showNewWaitingIndicator:@"Decoding Image" displayProgressBar:NO];
+    [appDelegate showNewWaitingIndicator:NSLocalizedString(@"DecodingImageTitleKey", @"") displayProgressBar:NO];
 	
 	NSString *response = [request responseString];
     

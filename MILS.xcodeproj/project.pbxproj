@@ -115,6 +115,7 @@
 		21644AD414D877DE00101E7D /* TextViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 21644AD614D877DE00101E7D /* TextViewController.xib */; };
 		217734B914E12D6A0001BFAC /* AudioPlayerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 217734BB14E12D6A0001BFAC /* AudioPlayerViewController.xib */; };
 		217734BC14E12DB30001BFAC /* NoteCommentViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 217734BE14E12DB30001BFAC /* NoteCommentViewController.xib */; };
+		217E65C214E6BBC2001BA2CA /* GamePickerCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 217E65C414E6BBC2001BA2CA /* GamePickerCell.xib */; };
 		218CB55114D08E3200283C73 /* Quests.xib in Resources */ = {isa = PBXBuildFile; fileRef = 218CB55314D08E3200283C73 /* Quests.xib */; };
 		218CB55514D08FA900283C73 /* NotebookViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 218CB55714D08FA900283C73 /* NotebookViewController.xib */; };
 		218CB55914D090FB00283C73 /* NoteViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 218CB55B14D090FB00283C73 /* NoteViewController.xib */; };
@@ -252,7 +253,6 @@
 		AB9BA25413DFBE3A007470E3 /* PanoramicMedia.m in Sources */ = {isa = PBXBuildFile; fileRef = AB9BA25313DFBE3A007470E3 /* PanoramicMedia.m */; };
 		ABA104C710CA0E3E008538D0 /* ARView.xib in Resources */ = {isa = PBXBuildFile; fileRef = ABA104C610CA0E3E008538D0 /* ARView.xib */; };
 		ABAA644B130FD5410004D64C /* GamePickerCell.m in Sources */ = {isa = PBXBuildFile; fileRef = ABAA644A130FD5410004D64C /* GamePickerCell.m */; };
-		ABAA644F130FD5610004D64C /* GamePickerCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = ABAA644E130FD5610004D64C /* GamePickerCell.xib */; };
 		ABAFBAC5145A0B810044491C /* Yuntech.gpx in Resources */ = {isa = PBXBuildFile; fileRef = ABAFBAC1145A0B810044491C /* Yuntech.gpx */; };
 		ABB2CDC413C7497500F051E4 /* CoreVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ABB2CDC313C7497400F051E4 /* CoreVideo.framework */; };
 		ABB2CDC613C7498A00F051E4 /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ABB2CDC513C7498A00F051E4 /* AddressBook.framework */; };
@@ -541,6 +541,8 @@
 		217734BD14E12DB30001BFAC /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/NoteCommentViewController.xib; sourceTree = "<group>"; };
 		217734BF14E12DD70001BFAC /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hant"; path = "zh-Hant.lproj/AudioPlayerViewController.xib"; sourceTree = "<group>"; };
 		217734C014E12DFF0001BFAC /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hant"; path = "zh-Hant.lproj/NoteCommentViewController.xib"; sourceTree = "<group>"; };
+		217E65C314E6BBC2001BA2CA /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/GamePickerCell.xib; sourceTree = "<group>"; };
+		217E65C514E6BBD2001BA2CA /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hant"; path = "zh-Hant.lproj/GamePickerCell.xib"; sourceTree = "<group>"; };
 		218CB55214D08E3200283C73 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/Quests.xib; sourceTree = "<group>"; };
 		218CB55414D08E3800283C73 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hant"; path = "zh-Hant.lproj/Quests.xib"; sourceTree = "<group>"; };
 		218CB55614D08FA900283C73 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/NotebookViewController.xib; sourceTree = "<group>"; };
@@ -752,7 +754,6 @@
 		ABA104C610CA0E3E008538D0 /* ARView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ARView.xib; sourceTree = "<group>"; };
 		ABAA6449130FD5410004D64C /* GamePickerCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GamePickerCell.h; sourceTree = "<group>"; };
 		ABAA644A130FD5410004D64C /* GamePickerCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GamePickerCell.m; sourceTree = "<group>"; };
-		ABAA644E130FD5610004D64C /* GamePickerCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GamePickerCell.xib; sourceTree = "<group>"; };
 		ABAFBAC1145A0B810044491C /* Yuntech.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Yuntech.gpx; sourceTree = "<group>"; };
 		ABB2CDC313C7497400F051E4 /* CoreVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreVideo.framework; path = System/Library/Frameworks/CoreVideo.framework; sourceTree = SDKROOT; };
 		ABB2CDC513C7498A00F051E4 /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = System/Library/Frameworks/AddressBook.framework; sourceTree = SDKROOT; };
@@ -1334,7 +1335,7 @@
 				ABB60F27139F352500EEDA08 /* GamePickerRecentViewController.xib */,
 				ABAA6449130FD5410004D64C /* GamePickerCell.h */,
 				ABAA644A130FD5410004D64C /* GamePickerCell.m */,
-				ABAA644E130FD5610004D64C /* GamePickerCell.xib */,
+				217E65C414E6BBC2001BA2CA /* GamePickerCell.xib */,
 				4A9181B8139FDF1600D236CC /* GamesMapAnnotation.h */,
 				4A9181B9139FDF1600D236CC /* GamesMapAnnotation.m */,
 				ABB5767413A01FD100AD39D5 /* BogusSelectGameViewController.h */,
@@ -1882,7 +1883,7 @@
 				AB79D5BD1307E6EB004AE1C7 /* NearbyObjectsViewController.xib in Resources */,
 				AB79D7A61308311C004AE1C7 /* NearbyObjectCell.xib in Resources */,
 				AB79DB8C130922EF004AE1C7 /* nearby.png in Resources */,
-				ABAA644F130FD5610004D64C /* GamePickerCell.xib in Resources */,
+				217E65C214E6BBC2001BA2CA /* GamePickerCell.xib in Resources */,
 				ABCA372E131D31D80074254B /* textToggle.png in Resources */,
 				AB997482139D93C40087E387 /* commentsView.xib in Resources */,
 				2116C9A114D746C800F70A98 /* RatingCell.xib in Resources */,
@@ -2214,6 +2215,15 @@
 				217734C014E12DFF0001BFAC /* zh-Hant */,
 			);
 			name = NoteCommentViewController.xib;
+			sourceTree = "<group>";
+		};
+		217E65C414E6BBC2001BA2CA /* GamePickerCell.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				217E65C314E6BBC2001BA2CA /* en */,
+				217E65C514E6BBD2001BA2CA /* zh-Hant */,
+			);
+			name = GamePickerCell.xib;
 			sourceTree = "<group>";
 		};
 		218CB55314D08E3200283C73 /* Quests.xib */ = {
